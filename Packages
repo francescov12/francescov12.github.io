@@ -1,0 +1,102 @@
+Package: com.arcticsn0w.basictweak
+Version: 0.1~alpha0-1
+Architecture: iphoneos-arm
+Maintainer: Abraham Levine
+Installed-Size: 112
+Depends: mobilesubstrate
+Filename: debs//com.arcticsn0w.basictweak_0.1~alpha0-1_iphoneos-arm.deb
+Size: 6126
+MD5sum: 9bc706d627065d472aee4c111e8a5332
+SHA1: 64ebbac1a8f27dda1e1b2212fd4060903ce5d44a
+SHA256: 1729cff02c4618dec5cebadba8b6e5129838d13b2cdd7cd13701fe3c6428d727
+Section: Tweaks
+Description: changes slider text because why not
+Author: Abraham Levine
+Name: BasicTweak
+
+Package: com.arcticsn0w.ios6completefix
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: arcticsn0w <arcticsn0wdev@gmail.com>
+Depends: org.thebigboss.ios6completetheme, com.anemonetheming.anemone
+Filename: debs//iOS 6 Complete Fix.deb
+Size: 1256
+MD5sum: a4214b05766970d9d59cc86a8cd21fd4
+SHA1: 53e3b23b4a8b3f09dd1dc4bf1a7ac9cff0e092c2
+SHA256: a7a8945236af1dc1716e7cb5c9271841140ba2597d61a83691daf19a69909500
+Section: Themes
+Description: Fixes the Calendar app icon in iOS 6 Complete when using Anemone. The source http://anemonetheming.com/nightly must be added to use this; this is because that is the Anemone repository. To remove WinterBoard when using this theme, add the repository http://greenydev.github.io/fakr and install the "fake" WinterBoard package.
+Author: arcticsn0w <arcticsn0wdev@gmail.com>
+Name: Anemone iOS 6 Fix
+
+Package: com.arcticsn0w.solstice8
+Version: 1.0.2
+Architecture: iphoneos-arm
+Maintainer: arcticsn0w <arcticsn0wdev@gmail.com>
+Filename: debs//Solstice8.deb
+Size: 2667568
+MD5sum: aef110f89c205507bc3b22da2a5cba3b
+SHA1: 58def84d1e6b5eb94c710cfb5a75bff15f14abff
+SHA256: b4711cc9017a00b89e8897fa7a34eed67ccfb3476ae65b56fc7de9333265419d
+Section: Themes
+Description: Solstice (by everydayghost) updated for iOS 8! I take no credit for this; I merely updated it. You NEED IconBundles installed to use this. To theme the clock icon, you need CustomClock.
+Author: arcticsn0w <arcticsn0wdev@gmail.com>
+Name: Solstice8
+
+Package: com.reddestdream.minimalhostsblocker
+Version: 6.0-1
+Architecture: iphoneos-arm
+Maintainer: arcticsn0w <arcticsn0wdev@gmail.com>
+Conflicts: com.thireus.untrustedhostsblockerexperimental, com.thireus.untrustedhostsblockerlight, com.thireus.untrustedhostsblocker, com.myrepospace.reddestdream.minimal, com.myrepospace.basic.basic
+Filename: debs//Minimal-Hosts-Blocker.deb
+Size: 123086
+MD5sum: 66793cc1f5b34b272826e6c7d98db293
+SHA1: 7bc8c250218b4bcfde2c682b569a1f21039bd924
+SHA256: 29596997e78b3643070d2a7410996cb5b94aadc6ecc3a42bb48171be77288694
+Section: Tweaks
+Homepage: http://www.reddit.com/r/jailbreak/comments/2uon7v/minimal_hosts_50_released/
+Description: A minimal ad blocker!
+Author: ReddestDream <reddestdream@gmail.com>
+Depiction: http://arcetera.github.io/repodepictions/info/com.reddestdream.minimalhostsblocker/index.html
+Name: Minimal Hosts Blocker
+
+Package: com.rileytestut.gba4ios
+Version: 2.1~beta1
+Architecture: iphoneos-arm
+Maintainer: Abraham Levine
+Filename: debs//com.arcticsn0w.gba4ios.deb
+Size: 6148806
+MD5sum: e0211515521d4ae4b9c025db5bee9033
+SHA1: 1390e7e2744bcfd14d8d8a0e49bf0cf9b85b99f6
+SHA256: 0836737ce66f15a75a65343fbe39a17d0bfb8e17604ecfec64052f028e428ede
+Section: Games
+Homepage: http://gba4iosapp.com
+Description: A Gameboy Advance emulator for iOS
+Author: Riley Testut
+Name: GBA4iOS
+
+Package: net.angelxwind.nds4ios
+Version: 2.0-288-gdc4bfd2
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 12033
+Depends: firmware (>= 5.0)
+Conflicts: com.rock88dev.nds4ios, net.angelxwind.nds4ios-testing, net.angelxwind.nds4ios-768h
+Replaces: com.rock88dev.nds4ios, net.angelxwind.nds4ios-testing, net.angelxwind.nds4ios-768h
+Filename: debs//com.arcticsn0w.nds4ios.deb
+Size: 1812566
+MD5sum: 891001bcd86e05205035b93bea20bcad
+SHA1: 40b036e269765c825ed5148598631a704e1c9c04
+SHA256: abee5629de55bf7617bad1fe3101355c83d5f139361e24f68bb961abdc890796
+Section: Games
+Priority: optional
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=nds4iosDp
+Description: multi-platform emulator, DeSmuME
+Tag: purpose::uikit
+Author: Karen Tsai (angelXwind) <angelXwind@angelxwind.net>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=nds4iosDp
+Dev: angelxwind
+Icon: file:///Applications/nds4ios.app/Icon.png
+Name: nds4ios (Stable)
+Sponsor: thebigboss.org <http://thebigboss.org>
+
