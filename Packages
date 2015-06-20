@@ -62,19 +62,19 @@ Description: Auto dismiss the iOS 8 app switcher when all apps are closed.
 Author: Francesco <francesco.v@hotmail.co.uk>
 Name: SwitchClose8
 
-Package: com.francesco.trollface
-Version: 0.0.1-75
+Package: com.francesco.switcherbutton
+Version: 0.0.1-1
 Architecture: iphoneos-arm
 Maintainer: Francesco
 Installed-Size: 144
 Depends: mobilesubstrate
-Filename: debs//com.francesco.trollface_0.0.1-75_iphoneos-arm.deb
-Size: 6726
-MD5sum: 8823a6f4549286f36ddbc71185886ff2
-SHA1: 70280378eaadfaa27995636632e8d22e2ca59cf9
-SHA256: 780561f1986105971611b36e2fb9683ba27aa13c1c1b20fa42c073596dead36b
+Filename: debs//com.francesco.switcherbutton_0.0.1-1_iphoneos-arm.deb
+Size: 6718
+MD5sum: 99b4b1a745d5a2ed1917fe6988334098
+SHA1: 762a97e9faa51d39308bcef351ab6220949df8c4
+SHA256: 6649e87528098430d1b89270e3447b0533f2db5c1243bf139cab29e23035caf9
 Section: Tweaks
-Description: An awesome MobileSubstrate tweak!
+Description: Adds a button in the app switcher to kill all apps
 Author: Francesco
 Name: SwitcherButton
 
