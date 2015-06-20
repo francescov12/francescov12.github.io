@@ -14,3 +14,19 @@ Description: An awesome MobileSubstrate tweak!
 Author: Francesco
 Name: LockQuote
 
+Package: com.francesco.switchclose8
+Version: 1.0-5
+Architecture: iphoneos-arm
+Maintainer: Francesco <francesco.v@hotmail.co.uk>
+Installed-Size: 216
+Depends: mobilesubstrate, firmware (>= 8.0), preferenceloader
+Filename: debs//com.francesco.switchclose8_1.0-5_iphoneos-arm.deb
+Size: 17950
+MD5sum: 76f7501aef6ef34b9454acfb3f281bbd
+SHA1: dd8fa518d41d06c09188cd93baae35c85e606f63
+SHA256: 85644f58636c5165cc4af32604362887a34423b922f297c37a39e92bc95981a4
+Section: Tweaks
+Description: Auto dismiss the iOS 8 app switcher when all apps are closed.
+Author: Francesco <francesco.v@hotmail.co.uk>
+Name: SwitchClose8
+
