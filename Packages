@@ -14,6 +14,22 @@ Description: Preferences for when you charge.
 Author: Francesco
 Name: AirPort
 
+Package: com.francesco.alwaysbackcamera
+Version: 1.0.2-1
+Architecture: iphoneos-arm
+Maintainer: Francesco Vincitore
+Installed-Size: 280
+Depends: mobilesubstrate
+Filename: debs//com.francesco.alwaysbackcamera_1.0.2-1_iphoneos-arm.deb
+Size: 37210
+MD5sum: bb6005351995648d0300e4507fa8bae5
+SHA1: a4eadeaa3032f9baa7ab7f80ecd50d377d643061
+SHA256: 5c329574e56237e0de07f9bcbdb6289fb956bf3a7fbfb66dc4051cf613417f38
+Section: Tweaks
+Description: Choose what the camera lens and mode will default to.
+Author: Francesco Vincitore
+Name: AlwaysBackCamera
+
 Package: com.francesco.lockquote
 Version: 0.0.1-13
 Architecture: iphoneos-arm
