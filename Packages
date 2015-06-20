@@ -1,3 +1,19 @@
+Package: com.francesco.airport
+Version: 1.0-200
+Architecture: iphoneos-arm
+Maintainer: Francesco
+Installed-Size: 296
+Depends: mobilesubstrate, firmware (>= 8.0), preferenceloader
+Filename: debs//com.francesco.airport_1.0-200_iphoneos-arm.deb
+Size: 42584
+MD5sum: 717edf4b6e806e2001d552476f4ee86c
+SHA1: 44467877777ba8ef10ee01f1e70655615a4fef69
+SHA256: e1047dd8f58dc3d68b1d74bf57cb4f7d71052ce13357d0f5133188e78802eed4
+Section: Tweaks
+Description: Preferences for when you charge.
+Author: Francesco
+Name: AirPort
+
 Package: com.francesco.lockquote
 Version: 0.0.1-13
 Architecture: iphoneos-arm
