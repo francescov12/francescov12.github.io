@@ -1,16 +1,16 @@
-Package: com.twoohmies.alwaysbackcamera
-Version: 1.0.2-109
+Package: com.francesco.lockquote
+Version: 0.0.1-12
 Architecture: iphoneos-arm
-Maintainer: TwoOhmies
-Installed-Size: 280
+Maintainer: Francesco
+Installed-Size: 136
 Depends: mobilesubstrate
-Filename: debs//com.twoohmies.alwaysbackcamera_1.0.2-109_iphoneos-arm.deb
-Size: 43336
-MD5sum: ab2e6417670fe96ec403a3dd5876836b
-SHA1: 82f09a1c69fafd90748592205daba4dc45491cbf
-SHA256: 2228be8f98934ab6933ea1c9fc2c1f618fab68701d7bcb9c1820b381157c8435
+Filename: debs//com.francesco.lockquote_0.0.1-12_iphoneos-arm.deb
+Size: 6936
+MD5sum: 51992955f29172efcce70fe2b949c48c
+SHA1: ccccff8c70cdcf9cbdad4c16a808198643be0f4f
+SHA256: 691a0c51720c2db6ec567676f604b04c9e8c4cd3482bda368e57b45ccb9e90d5
 Section: Tweaks
 Description: An awesome MobileSubstrate tweak!
-Author: TwoOhmies
-Name: AlwaysBackCamera
+Author: Francesco
+Name: LockQuote
 
