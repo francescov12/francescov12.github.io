@@ -1,16 +1,16 @@
 Package: com.francesco.lockquote
-Version: 0.0.1-12
+Version: 0.0.1-13
 Architecture: iphoneos-arm
 Maintainer: Francesco
 Installed-Size: 136
 Depends: mobilesubstrate
-Filename: debs//com.francesco.lockquote_0.0.1-12_iphoneos-arm.deb
-Size: 6936
-MD5sum: 51992955f29172efcce70fe2b949c48c
-SHA1: ccccff8c70cdcf9cbdad4c16a808198643be0f4f
-SHA256: 691a0c51720c2db6ec567676f604b04c9e8c4cd3482bda368e57b45ccb9e90d5
+Filename: debs//com.francesco.lockquote_0.0.1-13_iphoneos-arm.deb
+Size: 4782
+MD5sum: c5f4f85bd305ecdefdce0a5ebd872533
+SHA1: f9d60bbbfca36a4feaf77cc95241e6bbe21593a9
+SHA256: 0aaf8b8c5b216a92970e40d421c51e64d5a4cf5fd400049a8cb6a1e21157d1e5
 Section: Tweaks
-Description: An awesome MobileSubstrate tweak!
+Description: Random quote on the lockscreen passcode view.
 Author: Francesco
 Name: LockQuote
 
