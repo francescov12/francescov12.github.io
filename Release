@@ -1,8 +1,8 @@
-Origin: arcetera's repo
-Label: arcetera
+Origin: Francesco’s Repo
+Label: Francesco
 Suite: stable
 Version: 1.0
-Codename: arcetera's repo
+Codename: francescosrepo
 Architectures: iphoneos-arm
 Components: main
-Description: The official Minimal Hosts Blocker repo, along with some other things
+Description: Some tweaks
