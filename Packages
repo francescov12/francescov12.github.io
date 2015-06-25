@@ -1,17 +1,17 @@
 Package: com.francesco.airport
-Version: 1.0-200
+Version: 1.0-201
 Architecture: iphoneos-arm
-Maintainer: Francesco
+Maintainer: Francesco <francesco.v@hotmail.co.uk>
 Installed-Size: 296
 Depends: mobilesubstrate, firmware (>= 8.0), preferenceloader
-Filename: debs//com.francesco.airport_1.0-200_iphoneos-arm.deb
-Size: 42584
-MD5sum: 717edf4b6e806e2001d552476f4ee86c
-SHA1: 44467877777ba8ef10ee01f1e70655615a4fef69
-SHA256: e1047dd8f58dc3d68b1d74bf57cb4f7d71052ce13357d0f5133188e78802eed4
+Filename: debs//com.francesco.airport_1.0-201_iphoneos-arm.deb
+Size: 52274
+MD5sum: 42a6edf16a5801874d7f4a7baf22fc45
+SHA1: a6ea06451ebff39a4ad0ad11f878b55415da876d
+SHA256: 69bc32901c45e63cc91c5348b4179fabe1e87d918e630dfd6450968d81cef4b9
 Section: Tweaks
-Description: Preferences for when you charge.
-Author: Francesco
+Description: Preferences for when you charge
+Author: Francesco <francesco.v@hotmail.co.uk>
 Name: AirPort
 
 Package: com.francesco.alwaysbackcamera
@@ -63,18 +63,18 @@ Author: Francesco <francesco.v@hotmail.co.uk>
 Name: SwitchClose8
 
 Package: com.francesco.switcherbutton
-Version: 0.0.1-1
+Version: 0.0.1-2
 Architecture: iphoneos-arm
-Maintainer: Francesco
+Maintainer: Francesco <francesco.v@hotmail.co.uk>
 Installed-Size: 144
 Depends: mobilesubstrate
-Filename: debs//com.francesco.switcherbutton_0.0.1-1_iphoneos-arm.deb
-Size: 6718
-MD5sum: 99b4b1a745d5a2ed1917fe6988334098
-SHA1: 762a97e9faa51d39308bcef351ab6220949df8c4
-SHA256: 6649e87528098430d1b89270e3447b0533f2db5c1243bf139cab29e23035caf9
+Filename: debs//com.francesco.switcherbutton_0.0.1-2_iphoneos-arm.deb
+Size: 8830
+MD5sum: 896d82d48ab647f3e81ab77c57171559
+SHA1: db4a62266d5a9c949f58bb04d8332e9007719952
+SHA256: a0f08a1ee538ba70c83ebb7b722fe1c66a61589d806d723904ddbed3a0fa8d1d
 Section: Tweaks
 Description: Adds a button in the app switcher to kill all apps
-Author: Francesco
+Author: Francesco <francesco.v@hotmail.co.uk>
 Name: SwitcherButton
 
