@@ -30,6 +30,22 @@ Description: Choose what the camera lens and mode will default to
 Author: Francesco <francesco.v@hotmail.co.uk>
 Name: AlwaysBackCamera
 
+Package: com.francesco.batterycolor
+Version: 1.0-1
+Architecture: iphoneos-arm
+Maintainer: Francesco Vincitore
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: debs//com.francesco.batterycolor_1.0-1_iphoneos-arm.deb
+Size: 4532
+MD5sum: 8ab3b1f64da354cb7829126edd54b2aa
+SHA1: 6d102bb60deb31f1093d061bd0c57971cf0e2a47
+SHA256: 3de60631c2c94c03bfd72a1b1d9674da22f69e0fd8e3fe29f64a404985f2ac07
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: Francesco Vincitore
+Name: BatteryColor
+
 Package: com.francesco.lockquote
 Version: 0.0.1-15
 Architecture: iphoneos-arm
