@@ -1,66 +1,69 @@
 Package: com.francesco.airport
-Version: 1.0-201
+Version: 1.0.1-1
 Architecture: iphoneos-arm
-Maintainer: Francesco <francesco.v@hotmail.co.uk>
+Maintainer: Francesco Vincitore<francesco.v@hotmail.co.uk>
 Installed-Size: 296
 Depends: mobilesubstrate, firmware (>= 8.0), preferenceloader
-Filename: debs//com.francesco.airport_1.0-201_iphoneos-arm.deb
-Size: 52274
-MD5sum: 42a6edf16a5801874d7f4a7baf22fc45
-SHA1: a6ea06451ebff39a4ad0ad11f878b55415da876d
-SHA256: 69bc32901c45e63cc91c5348b4179fabe1e87d918e630dfd6450968d81cef4b9
+Filename: debs//com.francesco.airport_1.0.1-1_iphoneos-arm.deb
+Size: 52318
+MD5sum: fee8633613d338efeb531976676c04bd
+SHA1: 4ad64b9bc9aefad3788a786751b8c259f2c13168
+SHA256: 2eb9456cb0c22d67f610a78fe3db6b43f22c26e47fc62823b1ef25ef83a88eac
 Section: Tweaks
 Description: Preferences for when you charge
-Author: Francesco <francesco.v@hotmail.co.uk>
+Author: Francesco Vincitore<francesco.v@hotmail.co.uk>
+Depiction: http://francescov12.github.io/depictions/com.francesco.airport/index.html
 Name: AirPort
 
 Package: com.francesco.alwaysbackcamera
-Version: 1.0.2-9
+Version: 1.0.4-1
 Architecture: iphoneos-arm
-Maintainer: Francesco <francesco.v@hotmail.co.uk>
+Maintainer: Francesco Vincitore <francesco.v@hotmail.co.uk>
 Installed-Size: 280
 Depends: mobilesubstrate
-Filename: debs//com.francesco.alwaysbackcamera_1.0.2-9_iphoneos-arm.deb
-Size: 43376
-MD5sum: 0ed61f8de8b7520594677ad11e025a77
-SHA1: 66c3e018363374ddb5dca20036112d5d7f3735fb
-SHA256: a9cf84e1692225e39cb0abeebd94f8e714ee12b8d5decd6ec198d55fae12af25
+Filename: debs//com.francesco.alwaysbackcamera_1.0.4-1_iphoneos-arm.deb
+Size: 43426
+MD5sum: 643318a801fb24a3af8d3331bdc6885a
+SHA1: 03e0f5e240baebb81bd0233a1d09b589b7e0d424
+SHA256: 36a146c100bf41eee4ea3c305e1f61022a09ea23a57790dd9f48c8bad6e9a41e
 Section: Tweaks
 Description: Choose what the camera lens and mode will default to
-Author: Francesco <francesco.v@hotmail.co.uk>
+Author: Francesco Vincitore <francesco.v@hotmail.co.uk>
+Depiction: http://francescov12.github.io/depictions/com.francesco.alwaysbackcamera/index.html
 Name: AlwaysBackCamera
 
 Package: com.francesco.batterycolor
-Version: 1.0.2-1
+Version: 1.0.3-1
 Architecture: iphoneos-arm
-Maintainer: Francesco Vincitore
+Maintainer: Francesco Vincitore <francesco.v@hotmail.co.uk>
 Installed-Size: 136
 Depends: mobilesubstrate
-Filename: debs//com.francesco.batterycolor_1.0.2-1_iphoneos-arm.deb
-Size: 4768
-MD5sum: 4a608136f7c4b95990466c3e6ec7bc06
-SHA1: 88d728d37472d08f6ebde6997434ad7a0fa7b563
-SHA256: 12189df94f93ba246bb05360a754f5fa5e4e52ad01875bd0e5c1e8147503b121
+Filename: debs//com.francesco.batterycolor_1.0.3-1_iphoneos-arm.deb
+Size: 4790
+MD5sum: 96740850895ea1774066ff68f5acbadd
+SHA1: 67b14be9c8c00b721111abc8411600f939dca3d0
+SHA256: cea26f030837907d12f68d71eb38f0b95a2c55141f3f05d09de657b637bf92b0
 Section: Tweaks
 Description: Battery color changes to yellow at >50%
-Author: Francesco Vincitore
+Author: Francesco Vincitore <francesco.v@hotmail.co.uk>
 Depiction: http://francescov12.github.io/depictions/com.francesco.batterycolor/index.html
 Name: BatteryColor
 
 Package: com.francesco.lockquote
-Version: 0.0.1-15
+Version: 1.0-1
 Architecture: iphoneos-arm
-Maintainer: Francesco <francesco.v@hotmail.co.uk>
+Maintainer: Francesco Vincitore <francesco.v@hotmail.co.uk>
 Installed-Size: 136
 Depends: mobilesubstrate
-Filename: debs//com.francesco.lockquote_0.0.1-15_iphoneos-arm.deb
-Size: 6994
-MD5sum: a12c9a89baf4b93e14a0ae07e903fb2b
-SHA1: 05514a89b7194554e277bff6d02c8df6a7f6cd12
-SHA256: c42d9b3294363153d456204949c34186f63c7124adc7c2703394b54c8d98f75d
+Filename: debs//com.francesco.lockquote_1.0-1_iphoneos-arm.deb
+Size: 7040
+MD5sum: 0befa9bf4414945c00108208b93a5226
+SHA1: 6fdb75d68661656f55dcacab2f52e92b626875b3
+SHA256: 34fcf0530e2c619569368f38d34c229dfc942856f7500c5db856b15fe06cfb5c
 Section: Tweaks
 Description: Random quote on the lockscreen passcode view
-Author: Francesco <francesco.v@hotmail.co.uk>
+Author: Francesco Vincitore <francesco.v@hotmail.co.uk>
+Depiction: http://francescov12.github.io/depictions/com.francesco.lockquote/index.html
 Name: LockQuote
 
 Package: com.francesco.switchclose8
@@ -80,18 +83,19 @@ Author: Francesco <francesco.v@hotmail.co.uk>
 Name: SwitchClose8
 
 Package: com.francesco.switcherbutton
-Version: 0.0.1-2
+Version: 1.0-1
 Architecture: iphoneos-arm
-Maintainer: Francesco <francesco.v@hotmail.co.uk>
+Maintainer: Francesco Vincitore <francesco.v@hotmail.co.uk>
 Installed-Size: 144
 Depends: mobilesubstrate
-Filename: debs//com.francesco.switcherbutton_0.0.1-2_iphoneos-arm.deb
-Size: 8830
-MD5sum: 896d82d48ab647f3e81ab77c57171559
-SHA1: db4a62266d5a9c949f58bb04d8332e9007719952
-SHA256: a0f08a1ee538ba70c83ebb7b722fe1c66a61589d806d723904ddbed3a0fa8d1d
+Filename: debs//com.francesco.switcherbutton_1.0-1_iphoneos-arm.deb
+Size: 8876
+MD5sum: af6625deb63f8dc23738cf1ddd2807de
+SHA1: 8ca10bb548740068832476050535f2510964b10a
+SHA256: 437c8b03b8c1cf310a105da9e456557b4cd213aa72890ac5e433fc4854e64f06
 Section: Tweaks
 Description: Adds a button in the app switcher to kill all apps
-Author: Francesco <francesco.v@hotmail.co.uk>
+Author: Francesco Vincitore <francesco.v@hotmail.co.uk>
+Depiction: http://francescov12.github.io/depictions/com.francesco.switcherbutton/index.html
 Name: SwitcherButton
 
