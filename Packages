@@ -1,17 +1,17 @@
 Package: com.francesco.airport
-Version: 1.0.1-1
+Version: 1.0.2-1
 Architecture: iphoneos-arm
-Maintainer: Francesco Vincitore<francesco.v@hotmail.co.uk>
+Maintainer: Francesco Vincitore <francesco.v@hotmail.co.uk>
 Installed-Size: 296
 Depends: mobilesubstrate, firmware (>= 8.0), preferenceloader
-Filename: debs//com.francesco.airport_1.0.1-1_iphoneos-arm.deb
-Size: 52318
-MD5sum: fee8633613d338efeb531976676c04bd
-SHA1: 4ad64b9bc9aefad3788a786751b8c259f2c13168
-SHA256: 2eb9456cb0c22d67f610a78fe3db6b43f22c26e47fc62823b1ef25ef83a88eac
+Filename: debs//com.francesco.airport_1.0.2-1_iphoneos-arm.deb
+Size: 52322
+MD5sum: 0ba247ff4cc9db542c080bc4f7ae9ff2
+SHA1: 9b64e39c8f6f8f94cb8b112155d711d3e2846130
+SHA256: 96f9ea5c0348d2de66809618f6c7bbcbc36ce49a681e01064617ed5c43b77c9f
 Section: Tweaks
 Description: Preferences for when you charge
-Author: Francesco Vincitore<francesco.v@hotmail.co.uk>
+Author: Francesco Vincitore <francesco.v@hotmail.co.uk>
 Depiction: http://francescov12.github.io/depictions/com.francesco.airport/index.html
 Name: AirPort
 
