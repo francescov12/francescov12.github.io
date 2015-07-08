@@ -31,19 +31,20 @@ Author: Francesco <francesco.v@hotmail.co.uk>
 Name: AlwaysBackCamera
 
 Package: com.francesco.batterycolor
-Version: 1.0.1-1
+Version: 1.0.2-1
 Architecture: iphoneos-arm
 Maintainer: Francesco Vincitore
 Installed-Size: 136
 Depends: mobilesubstrate
-Filename: debs//com.francesco.batterycolor_1.0.1-1_iphoneos-arm.deb
-Size: 4726
-MD5sum: 29dfa08aafbd901c81286e6648696246
-SHA1: f19c00f57862e116424f25067ef6dc216b38ee0c
-SHA256: 4c9512aaa0ac2f149158b53cebfc0f6300baa3b0387bdc8f451191be9fa1e6e5
+Filename: debs//com.francesco.batterycolor_1.0.2-1_iphoneos-arm.deb
+Size: 4768
+MD5sum: 4a608136f7c4b95990466c3e6ec7bc06
+SHA1: 88d728d37472d08f6ebde6997434ad7a0fa7b563
+SHA256: 12189df94f93ba246bb05360a754f5fa5e4e52ad01875bd0e5c1e8147503b121
 Section: Tweaks
 Description: Battery color changes to yellow at >50%
 Author: Francesco Vincitore
+Depiction: http://francescov12.github.io/depictions/com.francesco.batterycolor/index.html
 Name: BatteryColor
 
 Package: com.francesco.lockquote
