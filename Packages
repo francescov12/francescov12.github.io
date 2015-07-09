@@ -1,18 +1,18 @@
 Package: com.francesco.airport
-Version: 1.0.2-1
+Version: 1.0.2-2
 Architecture: iphoneos-arm
 Maintainer: Francesco Vincitore <francesco.v@hotmail.co.uk>
 Installed-Size: 296
 Depends: mobilesubstrate, firmware (>= 8.0), preferenceloader
-Filename: debs//com.francesco.airport_1.0.2-1_iphoneos-arm.deb
-Size: 52322
-MD5sum: 0ba247ff4cc9db542c080bc4f7ae9ff2
-SHA1: 9b64e39c8f6f8f94cb8b112155d711d3e2846130
-SHA256: 96f9ea5c0348d2de66809618f6c7bbcbc36ce49a681e01064617ed5c43b77c9f
+Filename: debs//com.francesco.airport_1.0.2-2_iphoneos-arm.deb
+Size: 52310
+MD5sum: b3e86ba3056bc1738bafc46c4ea3dd31
+SHA1: f73b64ec987eca8fdabd9cdc79bd51935586fb8a
+SHA256: c8a76a16db8b13b0017bb23d6103900090c366795ad7e3847cecf3adcad986df
 Section: Tweaks
 Description: Preferences for when you charge
 Author: Francesco Vincitore <francesco.v@hotmail.co.uk>
-Depiction: http://francescov12.github.io/depictions/com.francesco.airport/index.html
+Depiction: http://francescov12.github.io/depictions?dep=com.francesco.airport
 Name: AirPort
 
 Package: com.francesco.alwaysbackcamera
