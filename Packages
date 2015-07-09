@@ -100,16 +100,16 @@ Depiction: http://francescov12.github.io/depictions/com.francesco.switcherbutton
 Name: SwitcherButton
 
 Package: com.francesco.tap2dismiss
-Version: 1.0-1
+Version: 1.0.1-1
 Architecture: iphoneos-arm
 Maintainer: Francesco Vincitore <francesco.v@hotmail.co.uk>
 Installed-Size: 136
 Depends: mobilesubstrate
-Filename: debs//com.francesco.tap2dismiss_1.0-1_iphoneos-arm.deb
-Size: 5276
-MD5sum: 9d4bf1a295bf8212252756cd8e3784c5
-SHA1: f92f6f15437c846f019c419e4034af36a4ed84fd
-SHA256: a21a4741863d253187684c21f8bb7db26a8149a2b8a0ae9dad82353e6ee5d8bd
+Filename: debs//com.francesco.tap2dismiss_1.0.1-1_iphoneos-arm.deb
+Size: 6740
+MD5sum: 1160250ff04b238bcecece54a18b0479
+SHA1: 7ee6646219cba9771076f6acfd20d51437f6b3b5
+SHA256: 06aa1a0b339af4f18ec9baecef41f5f66269fcc63fdb5a22ef8e1b47affcfd51
 Section: Tweaks
 Description: Tap anywhere to dismiss app switcher.
 Author: Francesco Vincitore <francesco.v@hotmail.co.uk>
