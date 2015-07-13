@@ -67,19 +67,20 @@ Depiction: http://francescov12.github.io/depictions/com.francesco.lockquote/inde
 Name: LockQuote
 
 Package: com.francesco.mediastatus
-Version: 1.0-2
+Version: 1.0.1-1
 Architecture: iphoneos-arm
 Maintainer: Francesco Vincitore <francesco.v@hotmail.co.uk>
 Installed-Size: 136
 Depends: mobilesubstrate
-Filename: debs//com.francesco.mediastatus_1.0-2_iphoneos-arm.deb
-Size: 3906
-MD5sum: 4370faa76dd3a8f384b41e11d242f821
-SHA1: d7c9b44628d61aa2a1329d96c3e10ff5d403f89a
-SHA256: b3d1bf252e14861ffe7f1b80378abf48f9e06fd16429cb7983b1bcb96fc33ca2
+Filename: debs//com.francesco.mediastatus_1.0.1-1_iphoneos-arm.deb
+Size: 3948
+MD5sum: 876f503250b32c42d4dccf679b25edee
+SHA1: 244ead730b8c275bd3064c63509ac309df81ecf5
+SHA256: 7856b08dc5a98b5eee7e9467acb9d394eb6a6650a3f7c4c166f6c17d7b65d793
 Section: Tweaks
 Description: Show lockscreen status bar when media is playing!
 Author: Francesco Vincitore <francesco.v@hotmail.co.uk>
+Depiction: http://francescov12.github.io/depictions/com.francesco.mediastatus/index.html
 Name: MediaStatus
 
 Package: com.francesco.switchclose8
