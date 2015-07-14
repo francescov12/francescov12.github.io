@@ -83,6 +83,22 @@ Author: Francesco Vincitore <francesco.v@hotmail.co.uk>
 Depiction: http://francescov12.github.io/depictions/com.francesco.mediastatus/index.html
 Name: MediaStatus
 
+Package: com.francesco.mediastu
+Version: 1.0-1
+Architecture: iphoneos-arm
+Maintainer: Francesco Vincitore
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: debs//com.francesco.mediastu_1.0-1_iphoneos-arm.deb
+Size: 4322
+MD5sum: 0946e2a1c157b744191192eb726afc22
+SHA1: a391bc3c128c3501ebb28f60859ea23383206b2d
+SHA256: c0a330812d710f59d182c32cde480461a612dbb88f325fb4a4908290fc92a022
+Section: Tweaks
+Description: Hide slide to unlock text unless media is playing
+Author: Francesco Vincitore
+Name: MediaSTU
+
 Package: com.francesco.switchclose8
 Version: 1.0-5
 Architecture: iphoneos-arm
