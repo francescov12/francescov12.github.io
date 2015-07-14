@@ -66,23 +66,6 @@ Author: Francesco Vincitore <francesco.v@hotmail.co.uk>
 Depiction: http://francescov12.github.io/depictions/com.francesco.lockquote/index.html
 Name: LockQuote
 
-Package: com.francesco.mediastatus
-Version: 1.0.1-2
-Architecture: iphoneos-arm
-Maintainer: Francesco Vincitore <francesco.v@hotmail.co.uk>
-Installed-Size: 136
-Depends: mobilesubstrate
-Filename: debs//com.francesco.mediastatus_1.0.1-2_iphoneos-arm.deb
-Size: 3914
-MD5sum: b62eb41e6282551c6e39c20af339bf03
-SHA1: b67139b6d3e2fd6ea4ba6bfc6786ec4e8df303fa
-SHA256: 0e1a54fa57f75f2c57eb23b6a5865e62bffed262dae3c8c47305fe29540c54bd
-Section: Tweaks
-Description: Show lockscreen status bar when media is playing!
-Author: Francesco Vincitore <francesco.v@hotmail.co.uk>
-Depiction: http://francescov12.github.io/depictions/com.francesco.mediastatus/index.html
-Name: MediaStatus
-
 Package: com.francesco.mediastu
 Version: 1.0-1
 Architecture: iphoneos-arm
@@ -98,6 +81,22 @@ Section: Tweaks
 Description: Hide slide to unlock text unless media is playing
 Author: Francesco Vincitore
 Name: MediaSTU
+
+Package: com.francesco.nowplayingslide
+Version: 1.0-1
+Architecture: iphoneos-arm
+Maintainer: Francesco Vincitore
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: debs//com.francesco.nowplayingslide_1.0-1_iphoneos-arm.deb
+Size: 4334
+MD5sum: 97c1702dd445ff5fb9667d6e24e1454e
+SHA1: 9f9fc2159a63fb4f1cfda29ef45827be93b0e771
+SHA256: cf682fec46ede7f97faf81aeb738b8a28ff79869323ca3dc1130c23b6482f179
+Section: Tweaks
+Description: Hide slide to unlock text unless media is playing
+Author: Francesco Vincitore
+Name: NowPlayingSlide
 
 Package: com.francesco.switchclose8
 Version: 1.0-5
