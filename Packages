@@ -49,6 +49,22 @@ Author: Francesco Vincitore <francesco.v@hotmail.co.uk>
 Depiction: http://francescov12.github.io/depictions/com.francesco.batterycolor/index.html
 Name: BatteryColor
 
+Package: com.francesco.instadayconfirm
+Version: 1.0-1
+Architecture: iphoneos-arm
+Maintainer: Francesco Vincitore
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: debs//com.francesco.instadayconfirm_1.0-1_iphoneos-arm.deb
+Size: 7088
+MD5sum: 485faf96db8598062a357fb45c73772e
+SHA1: 2b8da66c66861f673c90397aa3f7137b8908b4e4
+SHA256: a8bfe857c14c912e7632073fdf43e9926084dc64210fde6f5f7097c767d775bf
+Section: Tweaks
+Description: "Are you sure?" prompt on Instagram when liking a post more than a day old.
+Author: Francesco Vincitore
+Name: InstaDayConfirm
+
 Package: com.francesco.lockquote
 Version: 1.0-1
 Architecture: iphoneos-arm
