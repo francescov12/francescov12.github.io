@@ -99,16 +99,16 @@ Author: Francesco Vincitore
 Name: NowPlayingSlide
 
 Package: com.francesco.roundfolders
-Version: 1.0-1
+Version: 1.0-2
 Architecture: iphoneos-arm
 Maintainer: Francesco Vincitore
 Installed-Size: 136
 Depends: mobilesubstrate
-Filename: debs//com.francesco.roundfolders_1.0-1_iphoneos-arm.deb
-Size: 4180
-MD5sum: d3301363177ea1414a4bd38dd3534f68
-SHA1: 02695585291d636e04a83a81e87cb8da443caf8c
-SHA256: 04159e383cd8628746504ac03d16e53a367b7f94fb0b658ecd86779f1ee5fa04
+Filename: debs//com.francesco.roundfolders_1.0-2_iphoneos-arm.deb
+Size: 4176
+MD5sum: d96b2d7ef92b84d4da9f594eda99fc03
+SHA1: 705b8bd4731dbed6fcc9a44f6ad6cb3bbe1acaaf
+SHA256: eb032cb0f6d35007d1506de914c7d5fb44e7f6360e0986f3333d9e3c55b37c23
 Section: Tweaks
 Description: Make your folders round. Useful if you have a round theme.
 Author: Francesco Vincitore
