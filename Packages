@@ -98,6 +98,22 @@ Description: Hide slide to unlock text unless media is playing
 Author: Francesco Vincitore
 Name: NowPlayingSlide
 
+Package: com.francesco.roundfolders
+Version: 1.0-1
+Architecture: iphoneos-arm
+Maintainer: Francesco Vincitore
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: debs//com.francesco.roundfolders_1.0-1_iphoneos-arm.deb
+Size: 4180
+MD5sum: d3301363177ea1414a4bd38dd3534f68
+SHA1: 02695585291d636e04a83a81e87cb8da443caf8c
+SHA256: 04159e383cd8628746504ac03d16e53a367b7f94fb0b658ecd86779f1ee5fa04
+Section: Tweaks
+Description: Make your folders round. Useful if you have a round theme.
+Author: Francesco Vincitore
+Name: RoundFolders
+
 Package: com.francesco.switchclose8
 Version: 1.0-5
 Architecture: iphoneos-arm
