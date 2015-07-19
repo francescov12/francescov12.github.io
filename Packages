@@ -164,19 +164,19 @@ Author: Francesco Vincitore <francesco.v@hotmail.co.uk>
 Depiction: http://francescov12.github.io/depictions/com.francesco.tap2dismiss/index.html
 Name: Tap2Dismiss
 
-Package: com.francesco.tint
-Version: 1.0-1
+Package: com.francesco.tint8
+Version: 1.0.1-1
 Architecture: iphoneos-arm
-Maintainer: Francesco Vincitore
-Installed-Size: 136
-Depends: mobilesubstrate
-Filename: debs//com.francesco.tint_1.0-1_iphoneos-arm.deb
-Size: 6038
-MD5sum: f009ca5018502190e05a6380ba272753
-SHA1: 11ee41be366edc2a8040da3494a2f66464a80fc0
-SHA256: 61c961868c696c64e839ba6b7ac7e54972a4537cc9687425bb6b5bf7971b7502
+Maintainer: Francesco Vincitore <francesco.v@hotmail.co.uk>
+Installed-Size: 312
+Depends: mobilesubstrate, firmware (>= 8.0), org.thebigboss.libcolorpicker
+Filename: debs//com.francesco.tint8_1.0.1-1_iphoneos-arm.deb
+Size: 102722
+MD5sum: b2be942cac1779bca80d77fd139b4aea
+SHA1: a2a08c786695fa34f2b320f3a242b77d60491875
+SHA256: 91bbd49cbfd9ba2a952bb2cfbe6c5949e6b7d0faac02a88e1054e5289a0cd919
 Section: Tweaks
-Description: Tint iOS
-Author: Francesco Vincitore
-Name: Tint
+Description: Change iOS tint color globally
+Author: Francesco Vincitore <francesco.v@hotmail.co.uk>
+Name: Tint8
 
